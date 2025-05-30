@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3ba2fe16-3763-4564-8009-0aad97429dc8)# 🌍 Interactive Travel Destination Explorer
+ 🌍 Interactive Travel Destination Explorer
 
 A beautiful, responsive web application that helps users discover random travel destinations from around the world with interactive maps and detailed country information.
 
